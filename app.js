@@ -1,1 +1,3 @@
- console.log( "Rosando o sistema de cadastro de jogos" );
+ console.log( "Rodando o sistema de cadastro de jogos" );
+
+ console.log( "1");
